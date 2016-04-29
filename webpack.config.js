@@ -3,7 +3,7 @@
 var _ = require('lodash');
 var _configs = {
 
-  // global section
+  // global section test
   global: require(__dirname + '/config/webpack/global'),
 
   // config by enviroments
