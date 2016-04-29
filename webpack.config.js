@@ -6,7 +6,7 @@ var _configs = {
   // global section test 123
   global: require(__dirname + '/config/webpack/global'),
 
-  // config by enviroments 444 555
+  // config by enviroments 444 555 888
   production: require(__dirname + '/config/webpack/environments/production'),
   development: require(__dirname + '/config/webpack/environments/development')
 };
